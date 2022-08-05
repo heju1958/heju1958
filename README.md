@@ -11,7 +11,6 @@ Atualmente estou finalizando o curso de Front-end 🤳
 <div align="center">
   <a href="https://www.linkedin.com/in/heju1958/">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=heju1958&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=heju1958&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
   
   ##
