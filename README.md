@@ -9,8 +9,6 @@ Atualmente estou finalizando o curso de Front-end 🤳
 
 
 <div align="center">
-  <img height="200em" "https://github-readme-stats.vercel.app/api/top-langs/?username=heju1958&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=heju1958&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>
   
