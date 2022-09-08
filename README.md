@@ -1,7 +1,7 @@
 
 ## < Olá, bem vindo(a)(e) eu sou a Helena! 🚀 />
 
-Sou estudante de Desenvolvimento Full-Stack 😎🦆
+Sou estudante de Desenvolvimento Web Full-Stack 😎🦆
 
 Apaixonada por tecnologia 👾❤
 
