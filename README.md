@@ -27,6 +27,7 @@ Você pode testar minha API em seus projetos de desenvolvimento Front End : http
   <p> Ferramentas e linguagens que trabalho </p> 
   <img align="center" alt="vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="canva" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  />
+  <img align="center" alt="slack" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
   <img align="center" alt="trello" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
   <img align="center" alt="jira" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
   <img align="center" alt="figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
