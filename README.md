@@ -5,11 +5,11 @@ Sou estudante de Desenvolvimento Full-Stack 😎🦆
 
 Apaixonada por tecnologia 👾❤
 
-Atualmente estou finalizando o curso de Front-end 🤳 
+Atualmente sou Desenvolvedora Front-End Junior e estudante de Back-End🤳 
 
 ##
 
-Você pode testar meu último projeto aqui : https://react-entrega-s2-formulario-de-cadastro-heju1958.vercel.app/
+Você pode testar meu último projeto em grupo aqui : https://projeto-final-m3-heju1958-desapega.vercel.app/
 
 ##
 
