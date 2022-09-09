@@ -15,12 +15,6 @@ Você pode testar meu último projeto em grupo aqui : https://projeto-final-m3-h
 
 Você pode testar minha API em seus projetos de desenvolvimento Front End : https://github.com/Kenzie-Academy-Brasil-Developers/json-server-base-heju1958-2
 
-##
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=heju1958&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
   ##
   
 <div style="display: inline_block"><br>
