@@ -17,7 +17,7 @@ Você pode testar minha API em seus projetos de desenvolvimento Front End : http
 
 ##
   
-Quer me conhecer mais? Vizualize meu víde de apresentação aqui : https://www.youtube.com/watch?v=C7o9fNYC4DY&t=12s&ab_channel=HJG
+Quer me conhecer mais? Vizualize meu vídeo de apresentação aqui : https://www.youtube.com/watch?v=C7o9fNYC4DY&t=12s&ab_channel=HJG
   
 ##
   
