@@ -15,7 +15,11 @@ Você pode testar meu último projeto em grupo aqui : https://projeto-final-m3-h
 
 Você pode testar minha API em seus projetos de desenvolvimento Front End : https://github.com/Kenzie-Academy-Brasil-Developers/json-server-base-heju1958-2
 
-  ##
+##
+  
+Quer me conhecer mais? Vizualize meu víde de apresentação aqui : https://www.youtube.com/watch?v=C7o9fNYC4DY&t=12s&ab_channel=HJG
+  
+##
   
 <div style="display: inline_block"><br>
   <p> Ferramentas e linguagens que trabalho </p> 
