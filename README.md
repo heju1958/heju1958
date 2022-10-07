@@ -16,10 +16,6 @@ Você pode testar meu último projeto em grupo aqui : https://projeto-final-m3-h
 Quer me conhecer mais? Vizualize meu vídeo de apresentação aqui : https://www.youtube.com/watch?v=C7o9fNYC4DY&t=12s&ab_channel=HJG
   
 ##
-
-<div class="tenor-gif-embed" data-postid="10908202" data-share-method="host" data-aspect-ratio="0.738956" data-width="100%"><a href="https://tenor.com/view/chiens-funny-animals-dogs-gif-10908202">Chiens Funny Animals GIF</a>from <a href="https://tenor.com/search/chiens-gifs">Chiens GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-  
-##
   
 <div style="display: inline_block"><br>
   <p> Ferramentas e linguagens que trabalho </p> 
