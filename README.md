@@ -17,11 +17,7 @@ Quer me conhecer mais? Vizualize meu vídeo de apresentação aqui : https://www
   
 ##
 
-<div>
-<a href="https://github.com/heju1958">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heju1958&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heju1958&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<div class="tenor-gif-embed" data-postid="10908202" data-share-method="host" data-aspect-ratio="0.738956" data-width="100%"><a href="https://tenor.com/view/chiens-funny-animals-dogs-gif-10908202">Chiens Funny Animals GIF</a>from <a href="https://tenor.com/search/chiens-gifs">Chiens GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
 ##
   
