@@ -16,6 +16,14 @@ Você pode testar meu último projeto em grupo aqui : https://projeto-final-m3-h
 Quer me conhecer mais? Vizualize meu vídeo de apresentação aqui : https://www.youtube.com/watch?v=C7o9fNYC4DY&t=12s&ab_channel=HJG
   
 ##
+
+<div>
+<a href="https://github.com/heju1958">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heju1958&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heju1958&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+##
   
 <div style="display: inline_block"><br>
   <p> Ferramentas e linguagens que trabalho </p> 
