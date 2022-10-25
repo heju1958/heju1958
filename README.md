@@ -9,6 +9,12 @@ Atualmente sou Desenvolvedora Front-End Junior e estudante de Back-End🤳
 
 ##
 
+Vizualize meu curriculo aqui :
+
+https://www.canva.com/design/DAFOXga2Z4M/Ry6s-PYvUbWt3Q7Hwbxy4A/view?utm_content=DAFOXga2Z4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+##
+
 Você pode testar meu último projeto em grupo aqui : https://projeto-final-m3-heju1958-desapega.vercel.app/
 
 ##
