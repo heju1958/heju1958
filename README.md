@@ -23,6 +23,10 @@ Quer me conhecer mais? Vizualize meu vídeo de apresentação aqui : https://www
   
   ##
   
+  <p> CSS3 | Styled Components | MUI | Figma | HTML5 | JavaScript | TypeScript | React JS | Node JS | Express JS | API Rest | SQL | Postgres | Jest | TypeORM | Redux | ContextAPI | Yarn | Npm </p> 
+  
+  ##
+  
   <img align="center" alt="w10" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img align="center" alt="linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
