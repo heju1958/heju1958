@@ -29,8 +29,41 @@ Quer me conhecer mais? Vizualize meu vídeo de apresentação aqui : https://www
   
   ##
   
-  <p> CSS3 | Styled Components | MUI | Figma | HTML5 | JavaScript | TypeScript | React JS | Node JS | Express JS | API Rest | SQL | Postgres | Jest | TypeORM | Redux | ContextAPI | Yarn | Npm </p> 
-  
+HTML5 
+CSS3
+Web Semântica
+JavaScript (ES6)
+Lógica de programação
+Controle de versão com git
+Programação Orientada a Objetos
+Programação Funcional
+Metodologias Ágeis
+Scrum
+Kanban
+JIRA
+Trello
+Github
+Qualidade
+TDD com Jest
+BDD com Cucumber
+Noções de UX
+React
+Hooks
+State Management
+Redux
+Componentização, uso de bibliotecas de componentes
+Consumo de APIs
+NodeJs
+Express
+TypeScript
+Banco de dados SQL
+PostgreSQL
+Construção de APIs RESTful
+Programação assíncrona
+ORM
+TypeORM
+Migrations
+
   ##
   
   <img align="center" alt="w10" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
