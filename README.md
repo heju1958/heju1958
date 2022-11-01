@@ -29,40 +29,39 @@ Quer me conhecer mais? Vizualize meu vídeo de apresentação aqui : https://www
   
   ##
   
-HTML5 
-CSS3
-Web Semântica
-JavaScript (ES6)
-Lógica de programação
-Controle de versão com git
-Programação Orientada a Objetos
-Programação Funcional
-Metodologias Ágeis
-Scrum
-Kanban
-JIRA
-Trello
-Github
-Qualidade
-TDD com Jest
-BDD com Cucumber
-Noções de UX
-React
-Hooks
-State Management
-Redux
-Componentização, uso de bibliotecas de componentes
-Consumo de APIs
-NodeJs
-Express
-TypeScript
-Banco de dados SQL
-PostgreSQL
-Construção de APIs RESTful
-Programação assíncrona
-ORM
-TypeORM
-Migrations
+HTML5 |
+CSS3 |
+Web Semântica |
+JavaScript (ES6) |
+Lógica de programação |
+Controle de versão com git |
+Programação Orientada a Objetos |
+Programação Funcional |
+Metodologias Ágeis |
+Scrum |
+Kanban |
+JIRA |
+Trello |
+Github |
+Qualidade |
+TDD com Jest |
+Noções de UX |
+React | 
+Hooks |
+State Management |
+Redux |
+Componentização, uso de bibliotecas de componentes |
+Consumo de APIs |
+NodeJs |
+Express |
+TypeScript |
+Banco de dados SQL |
+PostgreSQL |
+Construção de APIs RESTful |
+Programação assíncrona |
+ORM |
+TypeORM |
+Migrations |
 
   ##
   
