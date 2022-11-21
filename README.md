@@ -63,7 +63,9 @@ ORM |
 TypeORM |
 Migrations |
 Python |
-Django
+Django |
+ORM Django |
+SQLite 3
 
   ##
   
