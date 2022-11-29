@@ -27,8 +27,6 @@ Quer me conhecer mais? Vizualize meu vídeo de apresentação aqui : https://www
 
  # Ferramentas e linguagens que trabalho #
   
-  ##
-  
 HTML5 |
 CSS3 |
 Web Semântica |
