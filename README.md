@@ -25,7 +25,7 @@ Quer me conhecer mais? Vizualize meu vídeo de apresentação aqui : https://www
   
 <div style="display: inline_block"><br>
 
-  ## Ferramentas e linguagens que trabalho ##
+ # Ferramentas e linguagens que trabalho #
   
   ##
   
