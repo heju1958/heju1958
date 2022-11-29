@@ -48,8 +48,10 @@ TDD com Jest |
 Noções de UX |
 React | 
 Hooks |
+Styled Components |
 State Management |
 Redux |
+Redux Tookit |
 Componentização, uso de bibliotecas de componentes |
 Consumo de APIs |
 NodeJs |
