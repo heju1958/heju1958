@@ -13,7 +13,7 @@ Sou estudante de Desenvolvimento Web Full-Stack 😎🦆
 
 Apaixonada por tecnologia 👾❤
 
-Atualmente sou Desenvolvedora Frontend | Back-End🤳 
+Atualmente sou Desenvolvedora Frontend | Back-End 🤳 
 
 ##
 
