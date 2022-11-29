@@ -21,7 +21,7 @@ Você pode testar meu último projeto em grupo aqui : https://projeto-final-m3-h
   
 Quer me conhecer mais? Vizualize meu vídeo de apresentação aqui : https://www.youtube.com/watch?v=C7o9fNYC4DY&t=12s&ab_channel=HJG
   
-##
+#
   
 <div style="display: inline_block"><br>
 
