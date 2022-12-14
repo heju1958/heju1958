@@ -7,20 +7,8 @@ Sou estudante de Desenvolvimento Web Full-Stack 😎🦆
 Apaixonada por tecnologia 👾❤
 
 Atualmente sou Desenvolvedora Frontend | Back-End 🤳 
-  
-#
 
-
-### `Entre em contato`
-
-<div> 
-  <a href="https://www.linkedin.com/in/heju1958/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:heju1958@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-  
-<div style="display: inline_block"><br>
-
-##
+  ##
   
   <img align="center" alt="w10" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img align="center" alt="linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -64,6 +52,8 @@ Atualmente sou Desenvolvedora Frontend | Back-End 🤳
   <img align="center" alt="HTML"height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
 </div>
+
+   ##
   
    ### `Ferramentas e linguagens que trabalho`
   
@@ -110,4 +100,12 @@ Swagger |
 
   ##
  
+   ### `Entre em contato`
+
+<div> 
+  <a href="https://www.linkedin.com/in/heju1958/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:heju1958@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+  
+<div style="display: inline_block"><br>
 
