@@ -9,6 +9,8 @@ Apaixonada por tecnologia 👾❤
 Atualmente sou Desenvolvedora Frontend | Back-End 🤳 
 
   ##
+
+<div style="display: inline_block"><br>
   
   <img align="center" alt="w10" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img align="center" alt="linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -107,5 +109,5 @@ Swagger |
   <a href = "mailto:heju1958@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
-<div style="display: inline_block"><br>
+
 
