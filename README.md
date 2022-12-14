@@ -7,10 +7,6 @@ Sou estudante de Desenvolvimento Web Full-Stack 😎🦆
 Apaixonada por tecnologia 👾❤
 
 Atualmente sou Desenvolvedora Frontend | Back-End 🤳 
-
-##
-  
-Quer me conhecer mais? Vizualize meu vídeo de apresentação aqui : https://www.youtube.com/watch?v=C7o9fNYC4DY&t=12s&ab_channel=HJG
   
 #
 
