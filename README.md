@@ -9,16 +9,6 @@ Apaixonada por tecnologia 👾❤
 Atualmente sou Desenvolvedora Frontend | Back-End 🤳 
 
 ##
-
-Vizualize meu curriculo aqui :
-
-https://www.canva.com/design/DAFOXga2Z4M/Ry6s-PYvUbWt3Q7Hwbxy4A/view?utm_content=DAFOXga2Z4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-##
-
-Você pode testar meu último projeto em grupo aqui : https://projeto-final-m3-heju1958-desapega.vercel.app/
-
-##
   
 Quer me conhecer mais? Vizualize meu vídeo de apresentação aqui : https://www.youtube.com/watch?v=C7o9fNYC4DY&t=12s&ab_channel=HJG
   
@@ -74,7 +64,8 @@ Migrations |
 Python |
 Django |
 ORM Django |
-SQLite 3
+SQLite 3 |
+Swagger |
 
   ##
   
