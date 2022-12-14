@@ -20,50 +20,7 @@ Atualmente sou Desenvolvedora Frontend | Back-End 🤳
   
 <div style="display: inline_block"><br>
 
- ### `Ferramentas e linguagens que trabalho`
-  
-HTML5 |
-CSS3 |
-Web Semântica |
-JavaScript (ES6) |
-Lógica de programação |
-Controle de versão com git |
-Programação Orientada a Objetos |
-Programação Funcional |
-Metodologias Ágeis |
-Scrum |
-Kanban |
-JIRA |
-Trello |
-Github |
-Qualidade |
-TDD com Jest |
-Noções de UX |
-React | 
-Hooks |
-Styled Components |
-State Management |
-Redux |
-Redux Tookit |
-Componentização, uso de bibliotecas de componentes |
-Consumo de APIs |
-NodeJs |
-Express |
-TypeScript |
-Banco de dados SQL |
-PostgreSQL |
-Construção de APIs RESTful |
-Programação assíncrona |
-ORM |
-TypeORM |
-Migrations |
-Python |
-Django |
-ORM Django |
-SQLite 3 |
-Swagger |
-
-  ##
+##
   
   <img align="center" alt="w10" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img align="center" alt="linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -108,6 +65,49 @@ Swagger |
 
 </div>
   
+   ### `Ferramentas e linguagens que trabalho`
+  
+HTML5 |
+CSS3 |
+Web Semântica |
+JavaScript (ES6) |
+Lógica de programação |
+Controle de versão com git |
+Programação Orientada a Objetos |
+Programação Funcional |
+Metodologias Ágeis |
+Scrum |
+Kanban |
+JIRA |
+Trello |
+Github |
+Qualidade |
+TDD com Jest |
+Noções de UX |
+React | 
+Hooks |
+Styled Components |
+State Management |
+Redux |
+Redux Tookit |
+Componentização, uso de bibliotecas de componentes |
+Consumo de APIs |
+NodeJs |
+Express |
+TypeScript |
+Banco de dados SQL |
+PostgreSQL |
+Construção de APIs RESTful |
+Programação assíncrona |
+ORM |
+TypeORM |
+Migrations |
+Python |
+Django |
+ORM Django |
+SQLite 3 |
+Swagger |
+
   ##
  
 
