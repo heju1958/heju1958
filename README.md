@@ -75,9 +75,10 @@ Trello |
 Github |
 Qualidade |
 TDD com Jest |
-Noções de UX |
+Noções de UX e UI |
 React | 
 Hooks |
+Framer-motion |
 Styled Components |
 State Management |
 Redux |
