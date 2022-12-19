@@ -99,6 +99,7 @@ Django |
 ORM Django |
 SQLite 3 |
 Swagger |
+AWS
 
   ##
  
