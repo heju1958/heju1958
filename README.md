@@ -10,7 +10,7 @@ Atualmente sou Desenvolvedora Frontend | Back-End 🤳
 
   ##
   
-  <div style="display: flex">
+  <div style="display: inline">
   
   <img align="center" alt="w10" height="200" width="200" src="https://coisascriativas.b-cdn.net/wp-content/uploads/2020/03/Hilariante-Conta-do-Instagram-cachorros-trabalhando-em-casa.jpg" />
   
