@@ -9,6 +9,12 @@ Apaixonada por tecnologia 👾❤
 Atualmente sou Desenvolvedora Frontend | Back-End 🤳 
 
   ##
+  
+  ### `< Currículo />`
+  
+  [Link 3](https://www.canva.com/design/DAFOXga2Z4M/Ry6s-PYvUbWt3Q7Hwbxy4A/view?utm_content=DAFOXga2Z4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+  ##
 
 <div style="display: inline_block"><br>
   
