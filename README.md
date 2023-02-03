@@ -68,6 +68,7 @@ Atualmente sou Desenvolvedora Frontend | Backend 🤳
    ##
   
    ### `Ferramentas e linguagens que trabalho`
+   Technologies I work with:
   
 HTML5 |
 CSS3 |
