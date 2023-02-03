@@ -1,5 +1,5 @@
 
-### <h1> `< Olá, bem vindo(a)(e) eu sou a Helena! 🚀 />` </h1>
+### <h1 align="center" > `< Olá, bem vindo(a)(e) eu sou a Helena! 🚀 />` </h1>
 
 
 Sou estudante de Desenvolvimento Web FullStack 😎🦆
