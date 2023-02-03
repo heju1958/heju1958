@@ -3,10 +3,13 @@
 
 
 Sou estudante de Desenvolvimento Web FullStack 😎🦆
+I'm a student of FullStack Web Development 😎🦆
 
 Apaixonada por tecnologia 👾❤
+In love with technology 👾❤
 
-Atualmente sou Desenvolvedora Frontend | Backend 🤳 
+Atualmente sou Desenvolvedora Frontend | Backend 🤳
+I'm currently a Frontend | Backend Developer 🤳
 
   ##
   
@@ -116,6 +119,7 @@ AWS
   ##
  
    ### `Entre em contato`
+   For contact:
 
 <div> 
   <a href="https://www.linkedin.com/in/heju1958/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
