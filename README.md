@@ -13,14 +13,12 @@ I'm currently a Frontend | Backend Developer 🤳
 
   ##
   
-  <div style="display: inline_block">
+  <div align="center" >
   
   <img align="center" alt="w10" height="250" width="250" src="https://coisascriativas.b-cdn.net/wp-content/uploads/2020/03/Hilariante-Conta-do-Instagram-cachorros-trabalhando-em-casa.jpg" />
   
- <div align = "center">
 	  ### [`Veja meu Curriculo`](https://www.canva.com/design/DAFOXga2Z4M/Ry6s-PYvUbWt3Q7Hwbxy4A/view?utm_content=DAFOXga2Z4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   See my resume
-</div>
   
   </div>
   
