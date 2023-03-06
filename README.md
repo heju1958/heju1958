@@ -2,8 +2,7 @@
 ### <h1 align="center" > `< Olá, bem vindo(a)(e) eu sou a Helena! 🚀 />` </h1>
 
 
-Sou estudante de Desenvolvimento Web FullStack 😎🦆
-I'm a student of FullStack Web Development 😎🦆
+Software Developer at W7 Technology 😎🦆
 
 Apaixonada por tecnologia 👾❤
 In love with technology 👾❤
