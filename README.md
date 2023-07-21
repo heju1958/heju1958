@@ -1,9 +1,6 @@
 
 ### <h1 align="center" > `< Olá, bem vindo(a)(e) eu sou a Helena! 🚀 />` </h1>
 
-
-Full Stack Software Developer at W7 Technology at W7 Technology 😎🦆
-
 Apaixonada por tecnologia 👾❤
 In love with technology 👾❤
 
