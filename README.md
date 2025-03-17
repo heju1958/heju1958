@@ -9,16 +9,10 @@ I'm currently a Frontend | Backend Developer 🤳
 
   ##
   
-  <div align="center" >
-  
-  <img align="center" alt="w10" height="250" width="250" src="https://coisascriativas.b-cdn.net/wp-content/uploads/2020/03/Hilariante-Conta-do-Instagram-cachorros-trabalhando-em-casa.jpg" />
-  
 </div>
     
    ### [`Veja meu Curriculo`](https://www.canva.com/design/DAFOXga2Z4M/Ry6s-PYvUbWt3Q7Hwbxy4A/view?utm_content=DAFOXga2Z4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   See my resume
-  
-
   
   ##
 
@@ -135,7 +129,6 @@ Oracle
 
 <div align="center" > 
   <a href="https://www.linkedin.com/in/heju1958/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:heju1958@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
 
