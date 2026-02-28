@@ -1,115 +1,87 @@
-<h1 align="center"> `< Olá, bem-vindo(a)(e), eu sou a Helena! 🚀 />` </h1>
-
+<h1 align="center">Helena J Gomes</h1>
 <p align="center">
-Apaixonada por tecnologia 👾❤<br>
-Atualmente Desenvolvedora Fullstack 🤳<br>
+Desenvolvedora Full Stack & IA<br>
+Paulínia - SP, Brasil
 </p>
 
 ---
 
-### [`📄 Veja meu Currículo`](https://www.canva.com/design/DAFOXga2Z4M/Ry6s-PYvUbWt3Q7Hwbxy4A/view?utm_content=DAFOXga2Z4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### 📄 Currículo
+[Visualizar currículo completo](https://www.canva.com/design/DAFOXga2Z4M/Ry6s-PYvUbWt3Q7Hwbxy4A/view?utm_content=DAFOXga2Z4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
-### 👩‍💻 Sobre mim
+## 👩‍💻 Sobre mim
 
-Olá! Sou a Helena, profissional apaixonada por design e desenvolvimento web, com mais de 5 anos de experiência em tecnologia e criação digital.
-
-- Iniciei minha jornada como Web Designer na **Docemaria** durante a pandemia de 2020.
-- Fui responsável pela identidade visual, redes sociais e cursos, transformando a marca na maior página brasileira sobre suspiros.
-- Em 2021, comecei a editar vídeos e criar conteúdo digital.
-- Atuei como desenvolvedora no **Grupo Ivy** e na **W7 Technology** (prestando serviços para a Reyes Holdings, EUA).
-- Atualmente, sou desenvolvedora fullstack na **DigitalCare2U (FioCruz & IBMP)**, criando soluções na área da saúde.
+Sou desenvolvedora autodidata, extremamente motivada e comprometida com meu desenvolvimento contínuo e crescimento profissional. Atuo na criação de soluções escaláveis, APIs e sistemas web, aliando boas práticas de engenharia de software à inovação com Inteligência Artificial.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas que uso
+## 💼 Experiência Profissional
 
-#### 🚀 Front-end
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI"/>
-</div>
-
-- HTML5, CSS3, Web Semântica
-- JavaScript (ES6+), TypeScript
-- React, Hooks, Redux, Redux Toolkit
-- Material UI, Componentização, APIs REST
-- Noções de UX/UI Design
+### DigitalCare2U (Fiocruz, IBMP & Ministério da Saúde)  
+**Desenvolvedora de Software | 2025 - Atual**  
+Atuação em projetos de inovação digital na área da saúde, com foco na Plataforma Jordana (SUS).  
+Tecnologias: NestJS, ReactJS, PostgreSQL, TypeORM, SDD e Prompt Engineering.
 
 ---
 
-#### 🧠 Back-end
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-</div>
-
-- Node.js, Express
-- Python, Django (ORM)
-- PHP
-- Programação assíncrona, Swagger, AWS
-- JD Edwards
+### W7 Technology  
+**Desenvolvedora de Software | 2023 - 2024**  
+Prestação de serviços para Reyes Holdings (EUA), em projeto para Martin Brower.  
+Tecnologias: Oracle, JD Edwards, Python, Django, ReactJS e TypeScript.
 
 ---
 
-#### 🗃️ Banco de Dados
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" height="40" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
-</div>
-
-- PostgreSQL, SQLite3
-- MongoDB, Redis, Oracle
-- TypeORM, Migrations
+### Grupo IVY  
+**Desenvolvedora Full Stack | 2023 - 2024**  
+Atuação em múltiplos projetos empresariais.  
+Tecnologias: JavaScript, Python, Node.js, ReactJS e TypeScript.
 
 ---
 
-#### 🧩 Habilidades Complementares
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="40" alt="Trello"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40" alt="Jira"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="Slack"/>
-</div>
-
-- Lógica de programação, POO, Funcional
-- Git, GitHub, GitLab
-- TDD com Jest
-- Metodologias ágeis (Scrum, Kanban)
-- WordPress, Jira, Trello, Postman
+### RW Tech  
+**Desenvolvedora Full Stack | 2023**  
+Sistema de ponto eletrônico para funcionários.  
+Tecnologias: Java, Spring, API REST, Postman e AWS.
 
 ---
 
-### 💼 Ferramentas e Softwares
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" height="40" alt="Yarn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/>
-</div>
+### Doce Maria C A  
+**Editor de Conteúdo Web & Desenvolvedora | 2020 - 2025**  
+Criação de conteúdo digital, edição de vídeos, planejamento de cursos online e projetos freelance.
 
 ---
 
-### 📬 Entre em contato
+## 🚀 Tecnologias
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/heju1958/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+**Front-end:**  
+HTML5, CSS3, JavaScript, TypeScript, ReactJS, Redux, MUI, Styled Components, Framer Motion.
+
+**Back-end:**  
+Node.js, Express, NestJS, Python, Django, PHP, APIs REST, Swagger, TDD com Jest.
+
+**Banco de Dados:**  
+PostgreSQL, Oracle, MongoDB, Redis, SQL, TypeORM.
+
+**IA & Automação:**  
+LLMs, Prompt Engineering, LangChain, n8n, SDR com IA, Web Semântica.
+
+**DevOps & Metodologias:**  
+Git, GitHub, GitLab, AWS, Scrum, Kanban, Jira, Trello.
+
+---
+
+## 🌎 Idiomas
+
+Português (Fluente)  
+Inglês (B2)  
+Espanhol (B2)
+
+---
+
+## 📬 Contato
+
+LinkedIn: www.linkedin.com/in/heju1958/  
+GitHub: github.com/heju1958  
+Email: heju1958@outlook.com
